@@ -1,5 +1,7 @@
 # Hi, I'm Sukhen 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sukhen-a117b962/)
+
 ### Professional in MIS & Reporting | Excel & Power BI
 
 📍 Dhanbad, Jharkhand, India
