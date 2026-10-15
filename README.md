@@ -1,13 +1,12 @@
 # Hi, I'm Sukhen 👋
 
-### Professional MIS & Reporting | Excel & Power BI
+### Professional in MIS & Reporting | Excel & Power BI
 
 📍 Dhanbad, Jharkhand, India
 
 ## About Me
 
-I am an professional MIS and reporting with over 16 years+ of experience in reporting, inventory management and store monitoring.
-
+I am a professional in MIS and reporting with over 16 years of experience in reporting, inventory management and store monitoring.
 I enjoy turning everyday business data into clear reports and useful dashboards. Here, I share my Excel and Power BI projects as I continue developing my data analysis skills.
 
 ## My Skills
